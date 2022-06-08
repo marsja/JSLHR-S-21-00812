@@ -1,3 +1,9 @@
-## JSLHR-S-21-00812
+## JSLHR-S-21-00812: Informational masking and listening effort in speech-recognition-in-noise – the role of working memory capacity and inhibitory control in older adults with and without hearing impairment
+### Stenbäck, Marsja, Hällgren, Lyxell, & Larsby
 
-Pre-processing and data analysis scripts for Stenbäck et al. 
+Pre-processing, data visualisation, and data analysis scripts for Stenbäck et al. submitted to Journal of Speech, Language and Hearing Research (JSLHR-S-21-00812)
+
+- Pre-processing: 01_handling_data.R
+- Analysis & Figure 2: 02_Data_Analysis.R
+- Audiogram (Figure 1): 03_audiogram.R
+
